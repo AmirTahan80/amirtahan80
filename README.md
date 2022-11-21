@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Amir Tahan
-- 👀 I'm interested in programming
-- 🌱 I’m currently learning Asp.Net Core
-- 💞️ I’m looking to collaborate on with other programmer
