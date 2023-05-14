@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-My name is Amir Tahan. 😎 I am a passionate programmer, and my favorite language is ** C# **. 💻
+My name is Amir Tahan. 😎 I am a passionate programmer, and my favorite language is **C#**. 💻
 
 ## 🔍 Learn More About Me
 
