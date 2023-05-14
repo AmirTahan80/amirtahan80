@@ -1,6 +1,5 @@
 # Hi there 👋
-## I'm AmirTahan. 😎
-### I'm progammer. 💻
-#### my favorite language is C#.
-#### You can see my linkedin profile to know me more! 🔗
-#### My username in linkdin: Amir Tahan.
+## I'm Amir Tahan. 😎
+## I'm a programmer. 💻
+### My favorite language is C#.
+### You can check out my [LinkedIn](https://www.linkedin.com/in/amirtahan) profile to learn more about me. 🔗
