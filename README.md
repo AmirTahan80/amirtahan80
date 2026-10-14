@@ -4,7 +4,7 @@
 
 **Backend Software Engineer | .NET & Distributed Systems**
 
-Tehran, Iran • [LinkedIn](https://www.linkedin.com/in/amirtahan) • [Email](mailto:a.tahanpour@gmail.com)
+Iran(Open to relocate) • [LinkedIn](https://www.linkedin.com/in/amirtahan) • [Email](mailto:a.tahanpour@gmail.com)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
